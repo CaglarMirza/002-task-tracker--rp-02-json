@@ -13,16 +13,16 @@
       "id": 2
     },
     {
-      "text": "Study Project",
-      "day": "Dec 15th at 9pm",
-      "isDone": false,
-      "id": 3
-    },
-    {
       "text": "Try Double Click Hier",
       "day": "👆Now",
-      "isDone": true,
+      "isDone": false,
       "id": 4
+    },
+    {
+      "text": "Study Project ",
+      "day": "Dec 15th at 9pm",
+      "isDone": true,
+      "id": 5
     }
   ]
 }

@@ -5,6 +5,8 @@
 
 ## Description
 
+DEMO -> ![Task Tracker with JSON](https://task-tracker002.netlify.app/)
+
 Project aims to create a Task Tracker App.
 
 ## Problem Statement
@@ -24,13 +26,13 @@ SOLUTION
 │    ├── components
 │    │       ├── Header.js
 │    │       │     └── Button.js
-│    │       │   
+│    │       │
 │    │       ├── AddTask.js
-│    │       │   
-│    │       │   
+│    │       │
+│    │       │
 │    │       └── Tasks.js
 │    │             └── Task.js
-│    │            
+│    │
 │    ├── App.js
 │    ├── App.css
 │    ├── index.js
