@@ -5,7 +5,7 @@
 
 ## Description
 
-DEMO -> ![Task Tracker with JSON](https://task-tracker002.netlify.app/)
+DEMO -> [Task Tracker with JSON](https://task-tracker002.netlify.app/)
 
 Project aims to create a Task Tracker App.
 
